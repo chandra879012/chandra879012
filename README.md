@@ -1,4 +1,6 @@
-Hi there! 👋 I'm Chandra Driastama
+Hi there! 
+👋 I'm Chandra Driastama
+
 🚀 Aspiring Data Analyst | Passionate about turning data into actionable insights.
 
 🌱 Currently Learning: Data Science & Machine Learning at Purwadhika School. I'm sharpening my skills in Python, SQL, and various machine learning algorithms to uncover hidden patterns in data.
@@ -10,7 +12,9 @@ Hi there! 👋 I'm Chandra Driastama
 📬 Get in Touch:
 
 Email: chandradriastama@gmail.com
+
 LinkedIn: Chandra Driastama
+
 Let’s connect and create something impactful together!
 
 
