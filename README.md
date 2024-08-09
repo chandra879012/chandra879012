@@ -11,12 +11,14 @@ Hi there!
 
 📬 Get in Touch:
 
-Email: chandradriastama@gmail.com
+If you'd like to contribute, feel free to contact me here:
 
-LinkedIn: Chandra Driastama
-
-Let’s connect and create something impactful together!
-
+<a href="https://www.linkedin.com/in/chandra-driastama-65b204217/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/>
+  </a>
+  <a href="mailto:chandradriastama@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"  width="52" height="40" alt="gmail logo"/>
+  </a>
 
 <!---
 chandra879012/chandra879012 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
